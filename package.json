@@ -7,7 +7,7 @@
     "email": "jason@stratusdata.com",
     "url": "http://www.stratusdata.com"
   },
-  "main": "tasks/grunt-polyglot-hbs-compile",
+  "main": "./tasks/polyglot-hbs-compile",
   "dependencies": {
     "polyglot-hbs-compile": "stratusdata/polyglot-hbs-compile"
   }
