@@ -10,6 +10,10 @@
   "dependencies": {
     "polyglot-hbs-compile": "git://github.com/stratusdata/polyglot-hbs-compile"
   },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/stratusdata/grunt-polyglot-hbs-compile.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.7.2",
