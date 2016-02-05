@@ -1,6 +1,6 @@
 {
   "name": "grunt-polyglot-hbs-compile",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Grunt task to compile polyglot phrase maps and handlebars templates",
   "author": {
     "email": "jason@stratusdata.com",
@@ -8,7 +8,7 @@
   },
   "main": "./tasks/polyglot-hbs-compile",
   "dependencies": {
-    "polyglot-hbs-compile": "git://github.com/stratusdata/polyglot-hbs-compile#v2.1.0"
+    "polyglot-hbs-compile": "git://github.com/stratusdata/polyglot-hbs-compile#v2.1.1"
   },
     "repository": {
     "type": "git",
