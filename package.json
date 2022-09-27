@@ -8,7 +8,7 @@
   },
   "main": "./tasks/polyglot-hbs-compile",
   "dependencies": {
-    "polyglot-hbs-compile": "git://github.com/stratusdata/polyglot-hbs-compile#v2.1.1"
+    "polyglot-hbs-compile": "stratusdata/polyglot-hbs-compile#v2.1.1"
   },
     "repository": {
     "type": "git",
